@@ -1,0 +1,10 @@
+/* HomePage.css (or your container CSS) */
+.home-container {
+    background-image: url('https://images6.alphacoders.com/123/1233563.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* To ensure it covers the full height */
+    color: white;
+    padding: 20px;
+  }
+  
